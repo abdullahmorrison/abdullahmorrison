@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 [![Abdullah's github stats](https://github-readme-stats.abdullahmorrison.vercel.app/api?username=abdullahmorrison&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
