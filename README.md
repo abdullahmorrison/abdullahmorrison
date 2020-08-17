@@ -1,15 +1,9 @@
 ### Hi there 👋 I'm Abdullah Morrison
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a website to easily view data on uOttawa Athletes and a website to track wieght loss progression
 - 🌱 I’m currently learning about php and databases
 - 🤔 I’m looking for help with google authentication
 - 📫 How to reach me: abdullahmorrison@gmail.com
-
-### :zap: Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 [![Abdullah's github stats](https://github-readme-stats.abdullahmorrison.vercel.app/api?username=abdullahmorrison&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -26,3 +20,8 @@ Here are some ideas to get you started:
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
+<img align="left" alt="Php" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
+<img align="left" alt="JQuery" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png />
