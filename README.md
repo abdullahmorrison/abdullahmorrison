@@ -2,8 +2,15 @@
 
 - 🔭 I’m currently working on a website to easily view data on uOttawa Athletes and a website to track wieght loss progression
 - 🌱 I’m currently learning about php and databases
-- 🤔 I’m looking for help with google authentication
+- 🤔 I’m looking for help with oauth authentication
 - 📫 How to reach me: abdullahmorrison@gmail.com
+
+#### 🤸‍♂️ Current Goals
+1. Create a website to track wieght loss progression
+2. Create a website to play bingo about a twitch streamer (xQcOw)
+
+#### 👀 Future Goals
+1. Create a way to automate the process of updating a resume (maybe with python scripts)
 
 [![Abdullah's github stats](https://github-readme-stats.abdullahmorrison.vercel.app/api?username=abdullahmorrison&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
