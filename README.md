@@ -13,6 +13,7 @@
 1. Create a way to automate the process of updating a resume (maybe with python scripts)
 
 [![Abdullah's github stats](https://github-readme-stats.abdullahmorrison.vercel.app/api?username=abdullahmorrison&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.abdullahmorrison.vercel.app/api/top-langs/?username=abdullahmorrison&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
