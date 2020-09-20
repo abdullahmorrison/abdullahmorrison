@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Abdullah Morrison
+### Hi there 👋 I'm Abdullah
 
 - 🔭 I’m currently working on a website to easily view data on uOttawa Athletes and a website to track wieght loss progression
 - 🌱 I’m currently learning about php and databases
