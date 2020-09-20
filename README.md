@@ -1,13 +1,14 @@
 ### Hi there 👋 I'm Abdullah
 
-- 🔭 I’m currently working on a website to easily view data on uOttawa Athletes and a website to track wieght loss progression
-- 🌱 I’m currently learning about php and databases
+- 🔭 I’m currently working on a personal website and a website for playing bingo
+- 🌱 I’m currently improving my knowledge in css layouts
 - 🤔 I’m looking for help with oauth authentication
 - 📫 How to reach me: abdullahmorrison@gmail.com
 
 #### 🤸‍♂️ Current Goals
-1. Create a website to track wieght loss progression
+1. Complete my personal website
 2. Create a website to play bingo about a twitch streamer (xQcOw)
+2. Create a website to track wieght loss progression
 
 #### 👀 Future Goals
 1. Create a way to automate the process of updating a resume (maybe with python scripts)
