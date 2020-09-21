@@ -3,12 +3,15 @@
 - 🔭 I’m currently working on a personal website and a website for playing bingo
 - 🌱 I’m currently improving my knowledge in css layouts
 - 🤔 I’m looking for help with oauth authentication
-- 📫 How to reach me: abdullahmorrison@gmail.com
+- 📫 How to reach me: abdullahmorrison@gmail.com, 
+- 😇 View more about me: ![Resume](https://github.com/abdullahmorrison/abdullahmorrison/blob/master/Resume.docx)
 
 #### 🤸‍♂️ Current Goals
 1. Complete my personal website
 2. Create a website to play bingo about a twitch streamer (xQcOw)
 2. Create a website to track wieght loss progression
+
+
 
 #### 👀 Future Goals
 1. Create a way to automate the process of updating a resume (maybe with python scripts)
