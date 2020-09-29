@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Abdullah
 
-- 🔭 I’m currently working on a personal website and a website for playing bingo
+- 🔭 I’m currently working on creating a website to play bingo game
 - 🌱 I’m currently improving my knowledge in css layouts
 - 🤔 I’m looking for help with oauth authentication
 - 📫 How to reach me: abdullahmorrison@gmail.com, 
