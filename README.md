@@ -7,8 +7,9 @@
 - 😇 View more about me: ![Resume](https://github.com/abdullahmorrison/abdullahmorrison/blob/master/Resume.docx)
 
 #### 🤸‍♂️ Current Goals
-- [ ] Complete my personal website
 - [x] Create a website to play bingo about a twitch streamer (xQcOw)
+- [ ] Create a blog website
+- [ ] Complete my personal website
 - [ ] Create a website to track wieght loss progression
 
 
