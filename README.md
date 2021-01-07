@@ -1,18 +1,14 @@
 ### Hi there 👋 I'm Abdullah
 
-- 🔭 I’m currently working on creating a personal website that will display my projects and resumé
-- 🌱 I’m currently improving my knowledge in css layouts
-- 🤔 I’m looking for help with oauth authentication
+- 🔭 I’m currently working on creating a website that models a concept that I have created
+- 🌱 I’m currently improving my knowledge in website creation by learning webpress
 - 📫 How to reach me: abdullahmorrison@gmail.com, 
 - 😇 View more about me: ![Resume](https://github.com/abdullahmorrison/abdullahmorrison/blob/master/Resume.docx)
 
 #### 🤸‍♂️ Current Goals
-- [x] Create a website to play bingo about a twitch streamer (xQcOw)
+- [ ] Create a website that models a concept that I have created
 - [ ] Create a blog website
 - [ ] Complete my personal website
-- [ ] Create a website to track wieght loss progression
-
-
 
 #### 👀 Future Goals
 1. Create a way to automate the process of updating a resume (maybe with python scripts)
