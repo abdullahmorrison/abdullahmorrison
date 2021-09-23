@@ -2,8 +2,8 @@
 - 📫 How to reach me: [abdullahmorrison@gmail.com](mailto:abdullahmorrison@gmail.com), 
 - 😇 View more about me: [Resume](https://github.com/abdullahmorrison/abdullahmorrison/blob/master/Resume.pdf)
 
-[![Abdullah's github stats](https://github-readme-stats.abdullahmorrison.vercel.app/api?username=abdullahmorrison&show_icons=true&theme=highcontrast&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.abdullahmorrison.vercel.app/api/top-langs/?username=abdullahmorrison&layout=compact&theme=highcontrast&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Abdullah's github stats](https://github-readme-stats.abdullahmorrison.vercel.app/api?username=abdullahmorrison&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.abdullahmorrison.vercel.app/api/top-langs/?username=abdullahmorrison&layout=compact&theme=dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
