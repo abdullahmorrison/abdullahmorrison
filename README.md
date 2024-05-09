@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/abdullah-morrison/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
   </a>
-  <a href="https://github.com/ReaVNaiL">
+  <a href="https://github.com/abdullahmorrison">
     <img src="https://komarev.com/ghpvc/?username=abdullahmorrison&style=for-the-badge" height=25>
   </a>
 </p>
